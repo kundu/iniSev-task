@@ -1,7 +1,8 @@
 # How to Run
 ## Installation
 
-- git clone
+- install php 7.4 , apache
+- git clone https://github.com/kundu/iniSev-task.git
 - rename example.env to .env [root folder]
 - change database connection value from env file: DB_CONNECTION, DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME, DB_PASSWORD
 - change email configuration value from env file: MAIL_MAILER, MAIL_HOST, MAIL_PORT, MAIL_USERNAME, MAIL_PASSWORD, MAIL_ENCRYPTION
