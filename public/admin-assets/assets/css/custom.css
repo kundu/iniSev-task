@@ -1,0 +1,46 @@
+.form-control:focus, .asColorPicker-input:focus, .dataTables_wrapper select:focus, .jsgrid .jsgrid-table .jsgrid-filter-row input:focus[type=text], .jsgrid .jsgrid-table .jsgrid-filter-row select:focus, .jsgrid .jsgrid-table .jsgrid-filter-row input:focus[type=number], .select2-container--default .select2-selection--single:focus, .select2-container--default .select2-selection--single .select2-search__field:focus, .typeahead:focus, .tt-query:focus, .tt-hint:focus {
+    color: white!important;
+}
+
+.dropdown .dropdown-menu {
+    border: 1px solid gray!important;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    color: #acb0b6!important;
+}
+
+#toast-container>div {
+    opacity: 1!important;
+}
+
+.select2{
+    width: 100%!important;
+}
+
+.select2-multiple{
+    width: 100%!important;
+}
+
+.close {
+    color: #f9f9f9!important;
+}
+
+.pager{
+    float: right;
+    margin-top: 40px;
+    list-style: none;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    display: inline-block;
+    padding-right: 0.5rem;
+    color: #6c757d;
+    content: "";
+}
+
+.float-right{
+    float: right;
+}
+
+

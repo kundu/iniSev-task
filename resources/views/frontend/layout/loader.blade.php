@@ -1,0 +1,8 @@
+<div class="spinner-wrapper">
+    <div class="psoload">
+        <div class="straight"></div>
+        <div class="curve"></div>
+        <div class="center"></div>
+        <div class="inner"></div>
+    </div>
+</div>
